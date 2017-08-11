@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: 'Overpass Mono', monospace;
+    background: url("image/air_supply.jpg");
+    background-size: cover;
+}
+
+.div_duct{
+    border: 1px solid #6a8065;
+    line-height: 2em;
+    margin: 0% 30%;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 10px 10px 10px grey;
+}
+
+h1{
+    margin-top: 17%;
+    text-shadow: 2px 2px 16px red;
+}
